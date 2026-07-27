@@ -1,1 +1,41 @@
+🚛 Logistics Operations Performance Analysis
+
+📊 Business Intelligence Project | Python + Power BI
+
+📖 Overview
+This project presents a complete Business Intelligence solution developed to analyze the operational performance of a transportation and logistics company between 2022 and 2024.
+The project combines Python for data auditing and exploratory analysis with Power BI for data modeling, KPI development and interactive dashboard creation.
+The objective is to transform operational data into actionable business insights that support strategic and operational decision-making.
+
+🎯 Objectives
+The main objectives of this project are:
+- Analyze the operational performance of a logistics company. 
+- Identify trends in revenue, fleet utilization and logistics operations. 
+- Evaluate driver performance and maintenance costs. 
+- Develop an interactive Business Intelligence solution. 
+- Support decision-making through KPIs and data visualization.
+
+🗂 Dataset
+
+The project uses the Synthetic Logistics Operations Database (2022–2024) published on Kaggle.
+
+Source
+
+Rodriguez, Y. (2025).
+
+Synthetic Logistics Operations Database (2022–2024).
+
+https://www.kaggle.com/datasets/yogape/logistics-operations-database
+
+The dataset contains information about:
+
+Customers
+Drivers
+Fleet
+Maintenance
+Shipments
+Facilities
+Routes
+Revenue
+Operational Costs
 
