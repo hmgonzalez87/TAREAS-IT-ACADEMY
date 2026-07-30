@@ -1,20 +1,22 @@
 🚛 Logistics Operations Performance Analysis
-
 📊 Business Intelligence Project | Python + Power BI
-
 📖 Overview
+
 This project presents a complete Business Intelligence solution developed to analyze the operational performance of a transportation and logistics company between 2022 and 2024.
+
 The project combines Python for data auditing and exploratory analysis with Power BI for data modeling, KPI development and interactive dashboard creation.
+
 The objective is to transform operational data into actionable business insights that support strategic and operational decision-making.
 
 🎯 Objectives
-The main objectives of this project are:
-- Analyze the operational performance of a logistics company. 
-- Identify trends in revenue, fleet utilization and logistics operations. 
-- Evaluate driver performance and maintenance costs. 
-- Develop an interactive Business Intelligence solution. 
-- Support decision-making through KPIs and data visualization.
 
+The main objectives of this project are:
+
+Analyze the operational performance of a logistics company.
+Identify trends in revenue, fleet utilization and logistics operations.
+Evaluate driver performance and maintenance costs.
+Develop an interactive Business Intelligence solution.
+Support decision-making through KPIs and data visualization.
 🗂 Dataset
 
 The project uses the Synthetic Logistics Operations Database (2022–2024) published on Kaggle.
@@ -38,4 +40,168 @@ Facilities
 Routes
 Revenue
 Operational Costs
+🛠 Technologies
+Python 3
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Plotly
+Visual Studio Code
+Power BI
+Power Query
+DAX
 
+🔄 Project Workflow
+Dataset
+     │
+     ▼
+Python
+(Data Audit & EDA)
+     │
+     ▼
+Data Cleaning
+     │
+     ▼
+Power BI
+(Power Query)
+     │
+     ▼
+Star Schema
+     │
+     ▼
+DAX Measures
+     │
+     ▼
+Interactive Dashboards
+     │
+     ▼
+Business Insights
+📈 Dashboards
+
+The solution consists of five interactive dashboards.
+
+1️⃣ Executive Dashboard
+
+Executive overview of the company's performance.
+
+Main KPIs:
+Revenue
+Operating Margin
+Loads
+On-Time Deliveries
+Revenue by Industry
+Monthly Trends
+
+2️⃣ Drivers Dashboard
+
+Analysis of driver performance.
+
+Main indicators:
+Driver Incidents
+Driver Responsibility
+Average Idle Hours
+Experience Analysis
+
+3️⃣ Fleet Dashboard
+
+Fleet utilization and maintenance analysis.
+
+Includes:
+Fleet Utilization
+Maintenance Cost
+Downtime
+Vehicle Mileage
+Maintenance Type Analysis
+
+4️⃣ Logistics Dashboard
+
+Network and logistics performance.
+
+Main analyses:
+Transit Time
+Distance Analysis
+Regional Operations
+Distribution Centers
+Logistics Network
+
+5️⃣ Business Dashboard
+
+Business performance analysis.
+
+Includes:
+Revenue
+Operating Margin
+Customer Analysis
+Contract Types
+Revenue Concentration
+
+📌 Key Insights
+
+The analysis identified several important findings:
+
+Stable and profitable operations during the analyzed period.
+Automotive is the main revenue-generating industry.
+Opportunities to improve delivery punctuality.
+Preventive maintenance represents a significant operational cost.
+Nashville, Atlanta and Detroit are the main logistics hubs.
+Revenue is concentrated in a limited number of customers.
+
+📂 Repository Structure
+Logistics-Operations-Analysis/
+
+│
+├── Data/
+│
+├── Python/
+│     ├── Data_Audit.ipynb
+│     ├── General_diagnostic.ipynb
+│     └── Operational_analysis.ipynb
+│
+├── Power BI/
+│     ├── Logistics Dashboard.pbix
+│
+├── Images/
+│     ├── Executive.png
+│     ├── Drivers.png
+│     ├── Fleet.png
+│     ├── Logistics.png
+│     └── Business.png
+│
+├── Report.pdf
+│
+└── README.md
+
+📚 Skills Demonstrated
+
+Data Cleaning
+Exploratory Data Analysis (EDA)
+Data Visualization
+KPI Design
+Star Schema Modeling
+Power Query
+DAX
+Business Intelligence
+Dashboard Design
+Data Storytelling
+
+🚀 Future Improvements
+
+Possible future developments include:
+
+Real-time data integration
+Machine Learning for predictive maintenance
+Automated KPI alerts
+Route optimization
+CO₂ emissions analysis
+IoT and GPS integration
+
+👨‍💻 Author
+
+Hector Morales González
+
+Industrial Engineer
+
+Business Intelligence & Data Analytics
+
+Barcelona, Spain
